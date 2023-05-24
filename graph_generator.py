@@ -1,11 +1,17 @@
 import networkx as nx
 import pickle
 import os
+import random
 
 def create_graph(n_nodes, n_edges):
     G = nx.dense_gnm_random_graph(n_nodes, n_edges)
+
+    #code creating G here
+    for (u,v,w) in G.edges(data=True):
+        w['weight'] = random.randint(0,100)
+
     directory = os.getcwd()
-    filename = directory + "/grafi/graph_V" + str(n_nodes) + "_E" + str(n_edges) + ".pickle"
+    filename = directory + "/grafi/graph_V" + str(n_nodes) + "_E" + str(n_edges) + "_weighted.pickle"
     with open(filename, 'wb') as fp: 
         pickle.dump(G, fp)
 
