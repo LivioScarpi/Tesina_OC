@@ -1,0 +1,194 @@
+Grafo corrente:  graph_V1000_E1000_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  284.0
+Tempo di esecuzione:  114.49326 
+
+Dinic's Algorithm
+max_flow_value is 284.0
+Tempo di esecuzione:  1.043821 
+
+Edmonds-Karp algorithm
+max_flow_value is:  284.0
+Tempo di esecuzione:  0.834917 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  284.0
+Tempo di esecuzione:  1.020244 
+
+
+
+
+Grafo corrente:  graph_V1200_E1800_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  771.0
+Tempo di esecuzione:  94.386812 
+
+Dinic's Algorithm
+max_flow_value is 771.0
+Tempo di esecuzione:  11.22483 
+
+Edmonds-Karp algorithm
+max_flow_value is:  771.0
+Tempo di esecuzione:  15.935021 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  771.0
+Tempo di esecuzione:  63.486399 
+
+
+
+
+Grafo corrente:  graph_V500_E2000_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  727.0
+Tempo di esecuzione:  226.986202 
+
+Dinic's Algorithm
+max_flow_value is 727.0
+Tempo di esecuzione:  1.175004 
+
+Edmonds-Karp algorithm
+max_flow_value is:  727.0
+Tempo di esecuzione:  4.363311 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  727.0
+Tempo di esecuzione:  19.465665 
+
+
+
+
+Grafo corrente:  graph_V700_E1200_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  287.0
+Tempo di esecuzione:  7.439041 
+
+Dinic's Algorithm
+max_flow_value is 287.0
+Tempo di esecuzione:  3.021331 
+
+Edmonds-Karp algorithm
+max_flow_value is:  287.0
+Tempo di esecuzione:  3.393942 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  287.0
+Tempo di esecuzione:  8.092523 
+
+
+
+
+Grafo corrente:  graph_V750_E1500_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  726.0
+Tempo di esecuzione:  261.853282 
+
+Dinic's Algorithm
+max_flow_value is 726.0
+Tempo di esecuzione:  3.923006 
+
+Edmonds-Karp algorithm
+max_flow_value is:  726.0
+Tempo di esecuzione:  10.068476 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  726.0
+Tempo di esecuzione:  36.065289 
+
+
+
+
+Grafo corrente:  graph_V850_E950_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  99.0
+Tempo di esecuzione:  50.439133 
+
+Dinic's Algorithm
+max_flow_value is 99.0
+Tempo di esecuzione:  0.572144 
+
+Edmonds-Karp algorithm
+max_flow_value is:  99.0
+Tempo di esecuzione:  0.288188 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  99.0
+Tempo di esecuzione:  0.41388 
+
+
+
+
+Grafo corrente:  graph_V900_E1500_weighted.pickle 
+
+Push-Relabel algorithm
+max_flow_value is:  522.0
+Tempo di esecuzione:  309.322409 
+
+Dinic's Algorithm
+max_flow_value is 522.0
+Tempo di esecuzione:  6.413116 
+
+Edmonds-Karp algorithm
+max_flow_value is:  522.0
+Tempo di esecuzione:  11.536276 
+
+Ford-Fulkerson algorithm
+max_flow_value is:  522.0
+Tempo di esecuzione:  32.02518 
+
+
+
+Grafo corrente:  graph_V10000_E25000_weighted.pickle 
+
+Dinic's Algorithm
+max_flow_value is 12148.0
+Tempo di esecuzione:  906.274735
+
+EK - staccato dopo 2 ore
+
+
+
+Grafo corrente:  graph_V2000_E4000_weighted.pickle 
+
+Dinic's Algorithm
+max_flow_value is 1879.0
+Tempo di esecuzione:  18.907653 
+
+Edmonds-Karp algorithm
+max_flow_value is:  1879.0
+Tempo di esecuzione:  81.882413 
+
+
+
+
+Grafo corrente:  graph_V2500_E7000_weighted.pickle 
+
+Dinic's Algorithm
+max_flow_value is 3070.0
+Tempo di esecuzione:  25.16802 
+
+Edmonds-Karp algorithm
+max_flow_value is:  3070.0
+Tempo di esecuzione:  204.451649 
+
+
+
+
+Grafo corrente:  graph_V5000_E6000_weighted.pickle 
+
+Dinic's Algorithm
+max_flow_value is 1119.0
+Tempo di esecuzione:  47.917721 
+
+Edmonds-Karp algorithm
+max_flow_value is:  1119.0
+Tempo di esecuzione:  67.429224 
+
+
+
