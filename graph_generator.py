@@ -28,7 +28,7 @@ def create_graph(n_nodes, n_edges):
         G.add_edge(j, n_nodes+1, weight=random.randint(0,100))
 
     directory = os.getcwd()
-    filename = directory + "/grafi/graph_V" + str(n_nodes) + "_E" + str(n_edges) + "_weighted.pickle"
+    filename = directory + "/grafi_da_eseguire/graph_V" + str(n_nodes) + "_E" + str(n_edges) + "_weighted.pickle"
     with open(filename, 'wb') as fp: 
         pickle.dump(G, fp)
 
